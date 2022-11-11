@@ -8,6 +8,7 @@
     "start": "tsc && node ./build/index.js",
     "build": "tsc"
   },
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/future4code/Jemison-labebank1.git"
